@@ -1,7 +1,11 @@
 # fb-news-stat-api
-Joint project for google newslab fellowship 16/17
+- Joint project for google newslab fellowship 16/17
+
+## Deprecation notice
+- Since March 14 2017
 
 ## Database
+- From team O'Right (Google News Lab Fellowship 16/17)
 
 ## API
 
@@ -79,6 +83,7 @@ Joint project for google newslab fellowship 16/17
 ## Project Example
 - https://fnsapi.newslabfellows.com/fbnews
 
-## Core Developers
-- @todoaskit
-- @Jiwoopark0508
+## Developers
+- [@todoaskit](https://github.com/todoaskit)
+- [@Jiwoopark0508](https://github.com/Jiwoopark0508)
+- [@juhojuho](https://github.com/juhojuho)
